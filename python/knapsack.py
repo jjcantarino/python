@@ -15,7 +15,7 @@ get_ipython().magic(u'matplotlib inline')
 
 #Due a max "X" value the knapsack can handle and a combination of items
 #that have a "V1" value, "V2" weight and appear certain "V3" times 
-#each position of V1, V2, V3 vectors points represents / points each item
+#each position of V1, V2, V3 vectors represents / points each item
 #it means each vector size must be equal and that size represents the number of items
 
 
